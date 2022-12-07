@@ -1,0 +1,4 @@
+//role 0 = 
+//role 1 = market
+//role 2 = rider
+//role 3 = confirm
